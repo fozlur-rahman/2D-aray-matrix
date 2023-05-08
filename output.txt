@@ -1,1 +1,1 @@
-Secondery dioginal matrix
+This is a Scalar matrix
